@@ -39,6 +39,9 @@ const About = () => {
             </p>
             <p>
             Some Projects:<br></br>
+            Friend Hangout Scheduler (React Native, Node.js, Express.js): 
+            <a href="https://github.com/maxp06/portfolio/tree/main" target="_blank" style={{ color: 'yellow' }}> Link </a>
+            <br></br>
             Checkin System (Angular/Typescript/Python): 
             <a href="https://comp423-ex04-comp590-140-23fa-maxp06.apps.cloudapps.unc.edu/" target="_blank" style={{ color: 'yellow' }}> Link </a>
             <br></br>
