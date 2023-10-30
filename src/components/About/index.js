@@ -35,7 +35,7 @@ const About = () => {
             As an ambitious computer science student at UNC Chapel Hill, my fervent desire is to secure a position within a renowned tech company that offers the prospect of engaging with cutting-edge technologies and tackling a broad spectrum of stimulating projects.
             </p>
             <p align="LEFT">
-            I exude confidence, possess an innate curiosity, and continuously strive to enhance my skills by seizing every opportunity for growth and development.
+            During my free time, I enjoy spending time with family and friends, and have also been a soccer player for over a decade. Reach out if you want to do something!
             </p>
             <p>
             Some Projects:<br></br>
